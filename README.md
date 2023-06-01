@@ -1,0 +1,3 @@
+# JacocoExample
+
+mvn package
